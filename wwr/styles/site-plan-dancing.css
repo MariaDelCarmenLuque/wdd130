@@ -10,13 +10,13 @@ body {
 :root {
     --primary-color: #FF0000; /* Red */
     --secondary-color: #FFFFFF; /* White */
-    --accent1-color: #000080; /* Navy Blue */
+    --accent1-color:  #4343dd; /* Light Blue */
     --accent2-color: #FFD700; /* Gold */
   
     --heading-font: 'Georgia', serif;
     --paragraph-font: 'Arial', sans-serif;
   
-    --nav-background-color: #000080; /* Navy Blue */
+    --nav-background-color:  #4343dd; /*Light  Blue */
     --nav-link-color: #FFFFFF; /* White */
     --nav-hover-link-color: #FFD700; /* Gold */
     --nav-hover-background-color: #FF0000; /* Red */
